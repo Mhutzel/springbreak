@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_og5_gqn_cz">
+    <title>How to sleep</title>
+    <shortdesc>Here we will learn about sleeping arrangements in NoVA. </shortdesc>
+    <taskbody>
+        <context>Marjan will be sleeping in her childhood bedroom. <p/></context>
+        <steps>
+            <step>
+                <cmd>Make the bed</cmd>
+            </step>
+            <step>
+                <cmd>Unpack teddy bear from suitcase</cmd>
+            </step>
+            <step>
+                <cmd>Plump the pillows</cmd>
+            </step>
+            <step>
+                <cmd>Dive into bed for a cosy night's sleep</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

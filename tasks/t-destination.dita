@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bs2_5pn_cz">
+    <title>How to spend free time</title>
+    <shortdesc>Here we will learn what Marjan will do to enjoy her week off from school.</shortdesc>
+    <taskbody>
+        <context>Marjan will be busy over break working as a substitute teacher and going on job
+            interviews. She will also spend time with her boyfriend hiking Great Falls and spending
+            time in D.C.<p/></context>
+        <steps>
+            <step> 
+            <cmd> Prepare for job interview</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Research company</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Print out copies of resume</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Drive to the office building</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Greet interviewer</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Score the job by acing the interview</cmd>
+                    </substep>
+                </substeps>
+                
+            </step>
+            <step>
+                <cmd>Go hiking</cmd>
+                <substeps id="substeps_ilj_j5n_cz">
+                    <substep>
+                        <cmd>Pack backpack with snacks and water</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter address of Great Falls in Google Maps</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Drive to Great Falls</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enjoy the views!</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
