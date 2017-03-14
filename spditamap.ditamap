@@ -2,11 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Spring Break </title>
- <topicref href="concepts/c-intro.dita">
-  <topicref href="tasks/t-transportation.dita"/>
-  <topicref href="tasks/t-accomodation.dita"/>
-  <topicref href="tasks/t-destination.dita"/>
-  <topicref href="tasks/t-pay.dita"/>
-  <topicref href="tasks/t-trouble.dita"/>
- </topicref>
+ <topicref href="tasks/t-transportation.dita"/>
+ <topicref href="tasks/t-destination.dita"/>
+ <topicref href="tasks/t-pay.dita"/>
+ <topicref href="tasks/t-accomodation.dita"/>
+ <topicref href="tasks/t-trouble.dita"/>
+ <topicref href="concepts/c-intro.dita"/>
 </map>
