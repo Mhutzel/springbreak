@@ -92,4 +92,5 @@ w["falls"]="2*2";
 w["family"]="0*26";
 w["follow"]="4*0";
 w["forward"]="0*0";
+w["free"]="2*30";
 

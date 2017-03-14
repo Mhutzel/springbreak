@@ -5,4 +5,5 @@ fl["1"]= "tasks/t-accomodation.html";
 fl["2"]= "tasks/t-destination.html";
 fl["3"]= "tasks/t-pay.html";
 fl["4"]= "tasks/t-transportation.html";
+fl["5"]= "tasks/t-trouble.html";
 var doStem = false;searchLoaded = true;

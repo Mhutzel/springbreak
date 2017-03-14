@@ -1,6 +1,5 @@
 
 // Auto generated index for searching.
-w["free"]="2*30";
 w["friends"]="0*26,3*0";
 w["from"]="1*0,2*26,4*0";
 w["fun"]="3*0";
@@ -40,6 +39,7 @@ w["night"]="1*0";
 w["night's"]="1*0";
 w["northern"]="0*26,4*0";
 w["nova"]="1*26";
+w["nt"]="2*0";
 w["occasion"]="3*0";
 w["off"]="2*26";
 w["office"]="2*0";
@@ -55,4 +55,5 @@ w["paying"]="3*0";
 w["pillows"]="1*0";
 w["plump"]="1*0";
 w["possibly"]="0*0";
+w["prepare"]="2*0,4*27";
 

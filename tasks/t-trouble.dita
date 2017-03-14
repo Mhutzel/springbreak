@@ -4,15 +4,15 @@
   <title>Troubleshooting</title>
   <troublebody>
     <condition>
-      <p></p>
+      <p>With a week of fun with friends and family there are plenty of things that can go wrong. </p>
     </condition>
     <troubleSolution>
       <cause>
-        <title></title>
+        <title>No Money In Bank Account</title>
         <p></p>
       </cause>
       <remedy>
-        <responsibleParty></responsibleParty>
+        <responsibleParty>Marjan </responsibleParty>
         <steps-unordered>
           <step>
             <cmd></cmd>

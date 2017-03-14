@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>springbreak2017</title>
+ <title>Spring Break </title>
  <topicref href="concepts/c-intro.dita">
   <topicref href="tasks/t-transportation.dita"/>
   <topicref href="tasks/t-accomodation.dita"/>
   <topicref href="tasks/t-destination.dita"/>
   <topicref href="tasks/t-pay.dita"/>
+  <topicref href="tasks/t-trouble.dita"/>
  </topicref>
 </map>

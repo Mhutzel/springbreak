@@ -1,9 +1,8 @@
 
 // Auto generated index for searching.
-w["prepare"]="2*0,4*27";
 w["preparing"]="4*0";
 w["pressure"]="4*0";
-w["print"]="2*0";
+w["pri"]="2*0";
 w["provide"]="3*0";
 w["purchases"]="3*0";
 w["put"]="3*0,4*0";
@@ -15,7 +14,7 @@ w["responsible"]="3*0";
 w["resume"]="2*0";
 w["school"]="2*26";
 w["score"]="2*0";
-w["search"]="0*0,1*0,2*0,3*0,4*0";
+w["search"]="0*0,1*0,2*0,3*0,4*0,5*0";
 w["seat"]="4*1";
 w["she"]="2*0,3*0";
 w["sleep"]="1*31";
@@ -39,6 +38,7 @@ w["things"]="3*0";
 w["time"]="2*32";
 w["tire"]="4*0";
 w["trip"]="4*26";
+w["troubleshooting"]="5*30";
 w["trunk"]="4*0";
 w["tune"]="4*0";
 w["turn"]="4*0";
