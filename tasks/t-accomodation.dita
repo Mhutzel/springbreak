@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_og5_gqn_cz">
-    <title>How to sleep</title>
-    <shortdesc>Here we will learn about sleeping arrangements in NoVA. </shortdesc>
+    <title>Sleeping Arrangements</title>
+    <shortdesc>When Marjan arrives home she will settle into her childhood bedroom.</shortdesc>
     <taskbody>
-        <context>Marjan will be sleeping in her childhood bedroom. <p/></context>
+        <context>Marjan will need to make her bed and fluff her pillows to make it comfortable for sleeping.
+            <p/></context>
         <steps>
             <step>
                 <cmd>Make the bed</cmd>
+                <substeps id="substeps_u2g_blg_gz">
+                    <substep>
+                        <cmd>Retrieve sheets from hallway closet</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place fitted sheet on the bed first, followed by the flat sheet making
+                            sure everything is tucked tightly under the mattress</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Lay comforter over sheets</cmd>
+                    </substep>
+                </substeps>
             </step>
             <step>
                 <cmd>Unpack teddy bear from suitcase</cmd>
             </step>
             <step>
-                <cmd>Plump the pillows</cmd>
+                <cmd>Plump and fluff the pillows</cmd>
             </step>
             <step>
                 <cmd>Dive into bed for a cosy night's sleep</cmd>

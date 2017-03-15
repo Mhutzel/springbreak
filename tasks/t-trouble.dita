@@ -15,7 +15,13 @@
         <responsibleParty>Marjan </responsibleParty>
         <steps-unordered>
           <step>
-            <cmd></cmd>
+            <cmd>Find a job</cmd>
+          </step>
+          <step>
+            <cmd>Ask mom and dad for more money</cmd>
+          </step>
+          <step>
+            <cmd>Beg on a street corner</cmd>
           </step>
         </steps-unordered>
       </remedy>

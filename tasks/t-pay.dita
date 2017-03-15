@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_glk_hqn_cz">
-    <title>How to pay </title>
-    <shortdesc>This task will outline how Marjan will pay for expenses during her break.</shortdesc>
+    <title>Paying for food and activities </title>
+    <shortdesc>Although her parents will provide home cooked meals and dinners out on occasion,
+        Marjan is still responsible for paying for any fun things she does with her friends like
+        going to the movies or downtown. </shortdesc>
     <taskbody>
-        <context>Although her parents will provide home cooked meals and dinners out on occasion,
-            Marjan is still responsible for paying for any fun things she does with her friends like
-            going to the movies or downtown. <p/></context>
+        <context>Marjan will pay for herself during spring break using her debit card.<p/></context>
         <steps>
             <step>
                 <cmd>Check bank account to ensure there are sufficient funds</cmd>
             </step>
             <step>
-                <cmd>Put debit card in wallet</cmd>
+                <cmd>Ensure debit card is in wallet</cmd>
             </step>
             <step>
                 <cmd>Use for any purchases</cmd>
