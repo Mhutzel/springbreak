@@ -4,12 +4,14 @@
   <title>Troubleshooting</title>
   <troublebody>
     <condition>
-      <p>With a week of fun with friends and family there are plenty of things that can go wrong. </p>
+      <p>With a week of fun with friends and family there are plenty of things that can go wrong
+        like depleting a bank account, losing a wallet, or not finishing homework. </p>
     </condition>
     <troubleSolution>
       <cause>
         <title>No Money In Bank Account</title>
-        <p></p>
+        <p>If Marjan spent all of her money in her bank account she would need to find ways to make
+          it back. </p>
       </cause>
       <remedy>
         <responsibleParty>Marjan </responsibleParty>

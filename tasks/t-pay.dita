@@ -6,7 +6,13 @@
         Marjan is still responsible for paying for any fun things she does with her friends like
         going to the movies or downtown. </shortdesc>
     <taskbody>
-        <context>Marjan will pay for herself during spring break using her debit card.<p/></context>
+        <context>Marjan will pay for herself during spring break using her debit card.<p>
+                <fig id="fig_tlw_qzg_gz">
+                    <title>Shopping and dining are some of Marjan's favorite things to do when she
+                        visits home.</title>
+                    <image href="../images/shopping.jpg" id="image_ulw_qzg_gz"/>
+                </fig>
+            </p></context>
         <steps>
             <step>
                 <cmd>Check bank account to ensure there are sufficient funds</cmd>

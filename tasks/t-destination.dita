@@ -2,11 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_bs2_5pn_cz">
     <title>Spending free time</title>
-    <shortdesc>Here we will learn what Marjan will do to enjoy her week off from school.</shortdesc>
+    <shortdesc>Marjan will have time off from school to enjoy some free time. </shortdesc>
     <taskbody>
         <context>Marjan will be busy over break working as a substitute teacher and going on job
             interviews. She will also spend time with her boyfriend hiking Great Falls and spending
-            time in D.C.<p/></context>
+            time in D.C.<p>
+                <fig id="fig_vhs_xyg_gz">
+                    <title>Great Falls Park overlooks the Great Falls of the Potomac River where
+                        Marjan will hike.</title>
+                    <image href="../images/greatfalls.jpg" id="image_whs_xyg_gz"/>
+                </fig>
+            </p></context>
         <steps>
             <step> 
             <cmd> Prepare for job interview</cmd>
