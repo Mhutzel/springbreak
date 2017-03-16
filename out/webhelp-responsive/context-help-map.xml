@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="c-intro" path="concepts/c-intro.html"/>
    <appContext helpID="task_sdc_cqn_cz" path="tasks/t-transportation.html"/>
    <appContext helpID="task_bs2_5pn_cz" path="tasks/t-destination.html"/>
    <appContext helpID="task_glk_hqn_cz" path="tasks/t-pay.html"/>
    <appContext helpID="task_og5_gqn_cz" path="tasks/t-accomodation.html"/>
    <appContext helpID="t-trouble" path="tasks/t-trouble.html"/>
-   <appContext helpID="c-intro" path="concepts/c-intro.html"/>
 </map>
