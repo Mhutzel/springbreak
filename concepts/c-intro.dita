@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c-intro">
- <title>Spring Break 2017</title>
+ <title>Follow Marjan during break </title>
  <shortdesc>Marjan is going home to Northern Virginia to spend spring break with her friends and
-  family. </shortdesc>
+  family. She's looking forward to relaxing during her last spring break possibly ever!<image
+   href="../images/virginia.jpg" id="image_a2z_p2h_gz"/></shortdesc>
  <conbody>
-  <p>Looking forward to relaxing during last spring break possibly ever!</p>
+  <p/>
  </conbody>
 </concept>

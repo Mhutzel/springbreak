@@ -4,8 +4,8 @@
     <title>Sleeping Arrangements</title>
     <shortdesc>When Marjan arrives home she will settle into her childhood bedroom.</shortdesc>
     <taskbody>
-        <context>Marjan will need to make her bed and fluff her pillows to make it comfortable for sleeping.
-            <p/></context>
+        <context>Marjan will need to make her bed and fluff her pillows to make it comfortable for
+            sleeping. <image href="../images/bed.jpg" id="image_a5h_k2h_gz"/><p/></context>
         <steps>
             <step>
                 <cmd>Make the bed</cmd>

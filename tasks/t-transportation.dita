@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_sdc_cqn_cz">
-    <title>Driving home<image href="../images/driving.jpg" id="image_cyp_wmg_gz"/></title>
+    <title>Driving home</title>
     <shortdesc>The drive to Northern Virginia from Blacksburg is 4 hours long so Marjan must prepare
         for her departure my packing her car and preparing for the drive.</shortdesc>
     <taskbody>
         <context>Marjan will pack her luggage into her car and inspect it to make sure everything is
-            in check before driving. <p/></context>
+            in check before driving. <fig id="fig_if4_rdh_gz"/><fig>
+                <title>Most VT students take 81 North or South to get home.</title>
+                <image href="../images/driving.jpg" id="image_jf4_rdh_gz"/>
+            </fig><p/></context>
         <steps>
             <step>
                 <cmd>Pack suitcases and belongings into trunk of car</cmd>
